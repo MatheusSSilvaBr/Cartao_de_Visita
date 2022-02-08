@@ -1,0 +1,29 @@
+html{
+    width: 400px;
+    height: 200px;
+    margin: 0;
+}
+
+.fundo{
+    background-image: url("../img/backgorund.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    font-family: 'Courier New', Times, serif;
+    color:rgb(100, 102, 104);
+}
+
+#titulo{   
+    font-size: 9px;
+    padding: 3px;
+    padding-top: 0;
+}
+
+.redes_sociais{  
+    font-size: 8px;
+}
+
+.modelo{
+    display: flex;
+    padding: 3px;
+}
